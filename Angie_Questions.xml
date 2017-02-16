@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <categories>
+
+        <category description="Complete the Song Lyrics" image="@drawable/international_trade" title="Trade">
+
+            <challenge question="What more can I do? All I want _________ is you."
+                type="1">
+                <answer correct="false" text="for the spring sale" />
+                <answer correct="false" text="for New Year's" />
+                <answer correct="true" text="for Christmas" />
+                <answer correct="false" text="for Halloween" />
+            </challenge>
+
+            <challenge question="Every Day is a winding road. ________"
+                type="1">
+                <answer correct="false" text="It gets a further away" />
+                <answer correct="true" text="I get a little bit closer" />
+                <answer correct="false" text="I keep drifting away" />
+                <answer correct="false" text="I feel a little bit safer" />
+            </challenge>
+
+            <challenge question="If I don't get some shelter, Lord, I'm gonna fade away. War, children ________"
+                type="1">
+                <answer correct="false" text="It's a trap. It's a trap." />
+                <answer correct="false" text="It's so cold and dark. It's so cold and dark" />
+                <answer correct="true" text="It's just a shot away. It's just a shot away" />
+                <answer correct="false" text="Brother help me please. Brother help me please" />
+            </challenge>
+
+            <challenge question="Billie Jean is not my lover. ________ who claims that I am the one."
+                type="1">
+                <answer correct="false" text="She just don't know" />
+                <answer correct="false" text="She's a cleaning lady" />
+                <answer correct="false" text="I know this girl" />
+                <answer correct="true" text="She's just a girl" />
+            </challenge>
+
+            <challenge question="________ can't hold it back anymore. ________ turn away and slam the door"
+                type="1">
+                <answer correct="true" text="Let it go, let it go" />
+                <answer correct="false" text="Falling down, falling down" />
+                <answer correct="true" text="Set me free, set me free" />
+                <answer correct="false" text="Run away, run away" />
+            </challenge>
+
+            <challenge question="I dug my keys into the side of his _________"
+                type="1">
+                <answer correct="false" text="PlayStation 4" />
+                <answer correct="true" text="pretty little souped up four wheel drive" />
+                <answer correct="false" text="broken down limousine" />
+                <answer correct="false" text="bright red ATV" />
+            </challenge>
+
+            <challenge question="That's okay, let's see how you do it. _________. Hit me with your best shot"
+                type="1">
+                <answer correct="false" text="Get in the ring, punch him in the face" />
+                <answer correct="false" text="You're one in a million. I know you got This." />
+                <answer correct="false" text="Give it all you got. Now come on man" />
+                <answer correct="true" text="Put up your dukes. Let's get down to it" />
+            </challenge>
+
+            <challenge question="If you wanna be my lover you _________ Make it last forever. Friendship never ends."
+                type="1">
+                <answer correct="false" text="gotta meet my family" />
+                <answer correct="false" text="have to buy me a pizza." />
+                <answer correct="true" text="gotta get with my friends." />
+                <answer correct="false" text="gotta fly me to France." />
+            </challenge>
+
+            <challenge question="Since you been gone, I can ________"
+                type="1">
+                <answer correct="false" text="do whatever I want" />
+                <answer correct="true" text="breathe for the first time" />
+                <answer correct="false" text="have tons of parties" />
+                <answer correct="false" text="leave all the memories behind" />
+            </challenge>
+
+            <challenge question="Don't go _________ Just stick to the rivers and the lakes that you're used to"
+                type="1">
+                <answer correct="true" text="chasing waterfalls" />
+                <answer correct="false" text="chasing cars." />
+                <answer correct="false" text="chasing pavements" />
+                <answer correct="false" text="chasing dreams" />
+            </challenge>
+
+        </category>
+
+    </categories>
+
+</resources>
